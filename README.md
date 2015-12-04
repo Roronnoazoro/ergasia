@@ -1,2 +1,2 @@
 # ergasia
-Cobalt Strike + Sniffly
+Cobalt Strike + Sniffly !
